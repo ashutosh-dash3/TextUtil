@@ -1,12 +1,34 @@
-# React + Vite
+# 📝 Text Analyzer (React Basics Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beginner-friendly **React** project built to understand how React works.  
+This simple web app lets users manipulate text (change case, copy text) and analyze it by counting words and characters.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+[🔗 Click here to try it](https://yourusername.github.io/repo-name/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Learning Goals
+- Understanding **React components**
+- Working with **props** and **state**
+- Handling **events** in React
+- Using **conditional rendering**
+- Managing **two-way data binding** with controlled components
+
+---
+
+## ✨ Features
+- 🔠 Convert text to **UPPERCASE**
+- 🔡 Convert text to **lowercase**
+- 📋 Copy text to clipboard
+- 🧮 Count the number of **words** and **characters**
+- 📱 Responsive design with clean UI
+
+---
+
+## 🛠️ Tech Stack
+- **React.js** (CRA or Vite)
+- **CSS3**
+- **JavaScript (ES6)**
